@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>For Rajni ❤️</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to bottom, #ff758c, #ff7eb3);
+  color: white;
+  text-align: center;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+.section {
+  padding: 70px 20px;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+p {
+  font-size: 18px;
+  max-width: 650px;
+  margin: auto;
+  line-height: 1.8;
+}
+
+button {
+  padding: 12px 25px;
+  border: none;
+  border-radius: 30px;
+  font-size: 16px;
+  background: white;
+  color: #ff4e50;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.gallery img {
+  width: 90%;
+  max-width: 320px;
+  margin: 15px;
+  border-radius: 20px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+  transition: transform 0.4s;
+}
+
+.gallery img:hover {
+  transform: scale(1.05);
+}
+
+.footer {
+  background: black;
+  padding: 60px 20px;
+}
+
+/* Floating hearts */
+.heart {
+  position: fixed;
+  bottom: -20px;
+  color: pink;
+  font-size: 20px;
+  animation: floatUp 6s linear infinite;
+}
+
+@keyframes floatUp {
+  0% { transform: translateY(0); opacity: 1; }
+  100% { transform: translateY(-800px); opacity: 0; }
+}
+</style>
+</head>
+
+<body>
+
+<!-- Background Music -->
+<iframe width="0" height="0" 
+src="https://www.youtube.com/embed/9CyOKIuxTQU?autoplay=1&loop=1&playlist=9CyOKIuxTQU" 
+frameborder="0" allow="autoplay">
+</iframe>
+
+<div class="section">
+  <h1>For RAJNI Sharma ❤️</h1>
+  <p>My Lazy Panda 🐼</p>
+  <button onclick="document.getElementById('memories').scrollIntoView();">
+    Click if you love me too 😌
+  </button>
+</div>
+
+<div id="memories" class="section gallery">
+  <h1>Our Beautiful Memories 📸</h1>
+  <img src="photo1.jpg">
+  <img src="photo2.jpg<!DOCTYPE html>
+<html>
+<head>
+<title>For Rajni ❤️</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to bottom, #ff758c, #ff7eb3);
+  color: white;
+  text-align: center;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+.section {
+  padding: 70px 20px;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+p {
+  font-size: 18px;
+  max-width: 650px;
+  margin: auto;
+  line-height: 1.8;
+}
+
+button {
+  padding: 12px 25px;
+  border: none;
+  border-radius: 30px;
+  font-size: 16px;
+  background: white;
+  color: #ff4e50;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.gallery img {
+  width: 90%;
+  max-width: 320px;
+  margin: 15px;
+  border-radius: 20px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+  transition: transform 0.4s;
+}
+
+.gallery img:hover {
+  transform: scale(1.05);
+}
+
+.footer {
+  background: black;
+  padding: 60px 20px;
+}
+
+/* Floating hearts */
+.heart {
+  position: fixed;
+  bottom: -20px;
+  color: pink;
+  font-size: 20px;
+  animation: floatUp 6s linear infinite;
+}
+
+@keyframes floatUp {
+  0% { transform: translateY(0); opacity: 1; }
+  100% { transform: translateY(-800px); opacity: 0; }
+}
+</style>
+</head>
+
+<body>
+
+<!-- Background Music -->
+<iframe width="0" height="0" 
+src="https://www.youtube.com/embed/9CyOKIuxTQU?autoplay=1&loop=1&playlist=9CyOKIuxTQU" 
+frameborder="0" allow="autoplay">
+</iframe>
+
+<div class="section">
+  <h1>For RAJNI Sharma ❤️</h1>
+  <p>My Lazy Panda 🐼</p>
+  <button onclick="document.getElementById('memories').scrollIntoView();">
+    Click if you love me too 😌
+  </button>
+</div>
+
+<div id="memories" class="section gallery">
+  <h1>Our Beautiful Memories 📸</h1>
+  <img src="/photo1.jpg">
+  <img src="/photo2.jpg">
+  <img src="/photo3.jpg">
+</div>
+
+<div class="section">
+  <h1>Just For You 💜</h1>
+  <p>
+    Jbse mila hu tbse tumhara hu…<br><br>
+    Chahe vo pehli baar sharmana ho…<br>
+    Ya pehli baar haath milana…<br><br>
+    Pehli baar tumse daant khana ho…<br>
+    Ya pehli baar tumhara haath thamna…<br><br>
+    Sath college jana ho…<br>
+    Ya sath tumhe ghar lana…<br><br>
+    Tumhare sath baate karna ho…<br>
+    Ya tumhe tang karna…<br><br>
+    Tum hi ho…<br>
+    Tum hi ho…<br><br>
+    Meri jaan… mera pyaar…<br>
+    Tum hi ho 💜🫂🤗
+  </p>
+</div>
+
+<div class="footer">
+  <h1>Happy Valentine’s Day ❤️</h1>
+  <p>
+    This is just virtual…<br>
+    Real surprises are loading… 😉💍<br><br>
+    Forever yours.
+  </p>
+</div>
+
+<!-- Hearts Script -->
+<script>
+setInterval(function(){
+  var heart = document.createElement("div");
+  heart.className = "heart";
+  heart.style.left = Math.random() * 100 + "vw";
+  heart.innerHTML = "❤️";
+  document.body.appendChild(heart);
+  setTimeout(function(){ heart.remove(); }, 6000);
+}, 500);
+</script>
+
+</body>
+</html>
+  <img src="photo3.jpg">
+</div>
+
+<div class="section">
+  <h1>Just For You 💜</h1>
+  <p>
+    Jbse mila hu tbse tumhara hu…<br><br>
+    Chahe vo pehli baar sharmana ho…<br>
+    Ya pehli baar haath milana…<br><br>
+    Pehli baar tumse daant khana ho…<br>
+    Ya pehli baar tumhara haath thamna…<br><br>
+    Sath college jana ho…<br>
+    Ya sath tumhe ghar lana…<br><br>
+    Tumhare sath baate karna ho…<br>
+    Ya tumhe tang karna…<br><br>
+    Tum hi ho…<br>
+    Tum hi ho…<br><br>
+    Meri jaan… mera pyaar…<br>
+    Tum hi ho 💜🫂🤗
+  </p>
+</div>
+
+<div class="footer">
+  <h1>Happy Valentine’s Day ❤️</h1>
+  <p>
+    This is just virtual…<br>
+    Real surprises are loading… 😉💍<br><br>
+    Forever yours.
+  </p>
+</div>
+
+<!-- Hearts Script -->
+<script>
+setInterval(function(){
+  var heart = document.createElement("div");
+  heart.className = "heart";
+  heart.style.left = Math.random() * 100 + "vw";
+  heart.innerHTML = "❤️";
+  document.body.appendChild(heart);
+  setTimeout(function(){ heart.remove(); }, 6000);
+}, 500);
+</script>
+
+</body>
+</html>
